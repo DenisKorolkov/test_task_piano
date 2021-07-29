@@ -1,0 +1,1 @@
+test application (docker container) where inside there will be nginx with statics using gitlab. Gitlab pipeline should include automatic container assembly, test, push to registry, deploy to a server (the cheapest virtual machine from any provider, for example, digital ocean). "
